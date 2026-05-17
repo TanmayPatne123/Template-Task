@@ -263,7 +263,7 @@
     align-content: center;
 }
 .item6{
-    background-image: url("../Task2/ProjectImage/bg.jpeg");
+    background-image: url("./ProjectImage/bg.jpeg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
